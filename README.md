@@ -1,2 +1,1 @@
-# Javascript-Practices-
-Revision Of javascript
+# Javascript Practices
