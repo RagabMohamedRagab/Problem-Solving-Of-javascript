@@ -19,4 +19,4 @@ if($Num1==100){
     alert("Invalid Two Numbers Try Again...!!");
 }
 // By using Ragab Mohamed Ragab
-// We can contact at WhatsApp : +20 01121237611
+// You can contact  Me at WhatsApp : +20 01121237611
