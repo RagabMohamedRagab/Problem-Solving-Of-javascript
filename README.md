@@ -1,4 +1,4 @@
-# Javascript Practices
+# Javascript Practices  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <ol>
    <li>Exercies1
        <ul>
