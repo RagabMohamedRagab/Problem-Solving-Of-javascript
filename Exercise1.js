@@ -1,3 +1,4 @@
+
 /*
   Write a program javascript to check two number if one of them equal 100 the return true or the sum of two numbers are 100 then.
 */
