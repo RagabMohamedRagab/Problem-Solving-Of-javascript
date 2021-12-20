@@ -12,7 +12,7 @@
    </li>
     <li>Exercies3
        <ul>
-           <li>✔ Write A program javascript to get Extention of File.</li>
+           <li>✔Write a program javascript to replace evey character in given string to following it in alphabets.</li>
       </ul>
    </li>
  </ol>
