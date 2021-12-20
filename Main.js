@@ -1,6 +1,6 @@
-import {Check} from './Exercise1.js';
+import {Check} from "./Exercise1.js"
 import {Extention} from './Exercise2.js';
-import {character} from './Exercise3.js'; 
+import {character} from './Exercies3.js'; 
 
 // First Import 
  Check();
