@@ -10,4 +10,9 @@
            <li>✔ Write A program javascript to get Extention of File.</li>
       </ul>
    </li>
+    <li>Exercies3
+       <ul>
+           <li>✔ Write A program javascript to get Extention of File.</li>
+      </ul>
+   </li>
  </ol>
