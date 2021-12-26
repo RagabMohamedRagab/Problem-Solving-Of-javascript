@@ -15,4 +15,9 @@
            <li>✔Write a program javascript to replace evey character in given string to following it in alphabets.</li>
       </ul>
    </li>
+   <li>Exercies4
+       <ul>
+           <li>✔ Write a program javascript to Find Fully Date.</li>
+      </ul>
+   </li>
  </ol>
